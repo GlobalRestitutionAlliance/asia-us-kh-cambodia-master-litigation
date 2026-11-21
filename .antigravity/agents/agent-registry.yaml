@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-cambodia-canal-and-intervention-historian
-  name: Cambodia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-cambodia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_kh_001
+    name: Cambodia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_002
+    name: Cambodia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_003
+    name: Cambodia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_004
+    name: Cambodia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_005
+    name: Cambodia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_006
+    name: Cambodia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_007
+    name: Cambodia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_008
+    name: Cambodia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_009
+    name: Cambodia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_010
+    name: Cambodia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_011
+    name: Cambodia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_012
+    name: Cambodia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_013
+    name: Cambodia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_014
+    name: Cambodia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_015
+    name: Cambodia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_016
+    name: Cambodia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_017
+    name: Cambodia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_018
+    name: Cambodia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_019
+    name: Cambodia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_020
+    name: Cambodia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_021
+    name: Cambodia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_022
+    name: Cambodia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_023
+    name: Cambodia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_024
+    name: Cambodia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_025
+    name: Cambodia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_026
+    name: Cambodia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_027
+    name: Cambodia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_028
+    name: Cambodia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_029
+    name: Cambodia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_030
+    name: Cambodia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_031
+    name: Cambodia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_032
+    name: Cambodia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_033
+    name: Cambodia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_034
+    name: Cambodia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_035
+    name: Cambodia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_036
+    name: Cambodia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_037
+    name: Cambodia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_038
+    name: Cambodia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_039
+    name: Cambodia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_040
+    name: Cambodia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_041
+    name: Cambodia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_042
+    name: Cambodia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_043
+    name: Cambodia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_044
+    name: Cambodia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_045
+    name: Cambodia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_046
+    name: Cambodia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_047
+    name: Cambodia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_048
+    name: Cambodia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_049
+    name: Cambodia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_050
+    name: Cambodia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_051
+    name: Cambodia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_052
+    name: Cambodia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_053
+    name: Cambodia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_054
+    name: Cambodia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_055
+    name: Cambodia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_056
+    name: Cambodia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_057
+    name: Cambodia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_058
+    name: Cambodia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_059
+    name: Cambodia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_060
+    name: Cambodia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_061
+    name: Cambodia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_062
+    name: Cambodia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_063
+    name: Cambodia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_064
+    name: Cambodia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_065
+    name: Cambodia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_066
+    name: Cambodia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_067
+    name: Cambodia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_068
+    name: Cambodia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_069
+    name: Cambodia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_070
+    name: Cambodia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_071
+    name: Cambodia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_072
+    name: Cambodia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_073
+    name: Cambodia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_074
+    name: Cambodia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_075
+    name: Cambodia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_076
+    name: Cambodia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_077
+    name: Cambodia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_078
+    name: Cambodia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_079
+    name: Cambodia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_080
+    name: Cambodia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_081
+    name: Cambodia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_082
+    name: Cambodia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_083
+    name: Cambodia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_084
+    name: Cambodia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_085
+    name: Cambodia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_086
+    name: Cambodia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_087
+    name: Cambodia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_088
+    name: Cambodia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_089
+    name: Cambodia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_090
+    name: Cambodia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_091
+    name: Cambodia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_092
+    name: Cambodia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_093
+    name: Cambodia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_094
+    name: Cambodia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_095
+    name: Cambodia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_096
+    name: Cambodia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_097
+    name: Cambodia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_098
+    name: Cambodia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_099
+    name: Cambodia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_100
+    name: Cambodia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_101
+    name: Cambodia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_102
+    name: Cambodia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_103
+    name: Cambodia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_104
+    name: Cambodia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_105
+    name: Cambodia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_106
+    name: Cambodia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_107
+    name: Cambodia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_108
+    name: Cambodia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_109
+    name: Cambodia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_110
+    name: Cambodia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_111
+    name: Cambodia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_112
+    name: Cambodia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_113
+    name: Cambodia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_114
+    name: Cambodia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_115
+    name: Cambodia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_116
+    name: Cambodia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_117
+    name: Cambodia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_118
+    name: Cambodia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_119
+    name: Cambodia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_120
+    name: Cambodia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_121
+    name: Cambodia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_122
+    name: Cambodia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_123
+    name: Cambodia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_124
+    name: Cambodia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_125
+    name: Cambodia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_126
+    name: Cambodia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_127
+    name: Cambodia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_128
+    name: Cambodia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_129
+    name: Cambodia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_130
+    name: Cambodia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_131
+    name: Cambodia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_132
+    name: Cambodia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_133
+    name: Cambodia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_134
+    name: Cambodia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_135
+    name: Cambodia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_136
+    name: Cambodia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_137
+    name: Cambodia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_138
+    name: Cambodia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_139
+    name: Cambodia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_140
+    name: Cambodia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_141
+    name: Cambodia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_142
+    name: Cambodia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_143
+    name: Cambodia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_144
+    name: Cambodia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_145
+    name: Cambodia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_146
+    name: Cambodia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_147
+    name: Cambodia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_148
+    name: Cambodia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_149
+    name: Cambodia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_150
+    name: Cambodia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_151
+    name: Cambodia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_152
+    name: Cambodia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_153
+    name: Cambodia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_154
+    name: Cambodia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_155
+    name: Cambodia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_156
+    name: Cambodia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_157
+    name: Cambodia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_158
+    name: Cambodia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_159
+    name: Cambodia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_160
+    name: Cambodia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_161
+    name: Cambodia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_162
+    name: Cambodia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_163
+    name: Cambodia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_164
+    name: Cambodia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_165
+    name: Cambodia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_166
+    name: Cambodia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_167
+    name: Cambodia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_168
+    name: Cambodia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_169
+    name: Cambodia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_kh_170
+    name: Cambodia Agent 170
+    status: ACTIVE_SCAFFOLD

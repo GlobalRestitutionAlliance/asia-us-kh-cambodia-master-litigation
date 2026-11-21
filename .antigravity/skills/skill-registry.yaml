@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: cambodian-restitution-roadmap-and-qsf-trust-execution
-  name: Cambodian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/cambodian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kh_001
+    name: Cambodia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_002
+    name: Cambodia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_003
+    name: Cambodia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_004
+    name: Cambodia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_005
+    name: Cambodia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_006
+    name: Cambodia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_007
+    name: Cambodia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_008
+    name: Cambodia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_009
+    name: Cambodia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_010
+    name: Cambodia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_011
+    name: Cambodia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_012
+    name: Cambodia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_013
+    name: Cambodia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_014
+    name: Cambodia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_015
+    name: Cambodia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_016
+    name: Cambodia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_017
+    name: Cambodia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_018
+    name: Cambodia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_019
+    name: Cambodia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_020
+    name: Cambodia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_021
+    name: Cambodia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_022
+    name: Cambodia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_023
+    name: Cambodia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_024
+    name: Cambodia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_025
+    name: Cambodia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_026
+    name: Cambodia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_027
+    name: Cambodia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_028
+    name: Cambodia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_029
+    name: Cambodia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_030
+    name: Cambodia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_031
+    name: Cambodia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_032
+    name: Cambodia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_033
+    name: Cambodia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_034
+    name: Cambodia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_035
+    name: Cambodia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_036
+    name: Cambodia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_037
+    name: Cambodia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_038
+    name: Cambodia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_039
+    name: Cambodia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_040
+    name: Cambodia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_041
+    name: Cambodia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_042
+    name: Cambodia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_043
+    name: Cambodia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_044
+    name: Cambodia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_045
+    name: Cambodia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_046
+    name: Cambodia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_047
+    name: Cambodia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_048
+    name: Cambodia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_049
+    name: Cambodia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_050
+    name: Cambodia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_051
+    name: Cambodia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_052
+    name: Cambodia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_053
+    name: Cambodia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_054
+    name: Cambodia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_055
+    name: Cambodia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_056
+    name: Cambodia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_057
+    name: Cambodia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_058
+    name: Cambodia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_059
+    name: Cambodia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_060
+    name: Cambodia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_061
+    name: Cambodia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_062
+    name: Cambodia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_063
+    name: Cambodia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_064
+    name: Cambodia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_065
+    name: Cambodia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_066
+    name: Cambodia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_067
+    name: Cambodia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_068
+    name: Cambodia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_069
+    name: Cambodia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_070
+    name: Cambodia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_071
+    name: Cambodia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_072
+    name: Cambodia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_073
+    name: Cambodia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_074
+    name: Cambodia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_075
+    name: Cambodia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_076
+    name: Cambodia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_077
+    name: Cambodia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_078
+    name: Cambodia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_079
+    name: Cambodia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_080
+    name: Cambodia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_081
+    name: Cambodia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_082
+    name: Cambodia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_083
+    name: Cambodia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_084
+    name: Cambodia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_085
+    name: Cambodia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_086
+    name: Cambodia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_087
+    name: Cambodia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_088
+    name: Cambodia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_089
+    name: Cambodia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_090
+    name: Cambodia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_091
+    name: Cambodia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_092
+    name: Cambodia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_093
+    name: Cambodia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_094
+    name: Cambodia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_095
+    name: Cambodia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_096
+    name: Cambodia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_097
+    name: Cambodia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_098
+    name: Cambodia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_099
+    name: Cambodia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_100
+    name: Cambodia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_101
+    name: Cambodia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_102
+    name: Cambodia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_103
+    name: Cambodia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_104
+    name: Cambodia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_105
+    name: Cambodia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_106
+    name: Cambodia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_107
+    name: Cambodia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_108
+    name: Cambodia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_109
+    name: Cambodia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_110
+    name: Cambodia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_111
+    name: Cambodia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_112
+    name: Cambodia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_113
+    name: Cambodia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_114
+    name: Cambodia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_115
+    name: Cambodia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_116
+    name: Cambodia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_117
+    name: Cambodia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_118
+    name: Cambodia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_119
+    name: Cambodia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_120
+    name: Cambodia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_121
+    name: Cambodia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_122
+    name: Cambodia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_123
+    name: Cambodia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_124
+    name: Cambodia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_125
+    name: Cambodia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_126
+    name: Cambodia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_127
+    name: Cambodia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_128
+    name: Cambodia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_129
+    name: Cambodia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_130
+    name: Cambodia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_131
+    name: Cambodia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_132
+    name: Cambodia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_133
+    name: Cambodia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_134
+    name: Cambodia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_135
+    name: Cambodia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_136
+    name: Cambodia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_137
+    name: Cambodia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_138
+    name: Cambodia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_139
+    name: Cambodia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_140
+    name: Cambodia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_141
+    name: Cambodia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_142
+    name: Cambodia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_143
+    name: Cambodia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_144
+    name: Cambodia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_145
+    name: Cambodia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_146
+    name: Cambodia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_147
+    name: Cambodia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_148
+    name: Cambodia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_149
+    name: Cambodia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_150
+    name: Cambodia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_151
+    name: Cambodia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_152
+    name: Cambodia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_153
+    name: Cambodia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_154
+    name: Cambodia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_155
+    name: Cambodia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_156
+    name: Cambodia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_157
+    name: Cambodia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_158
+    name: Cambodia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_159
+    name: Cambodia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_160
+    name: Cambodia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_161
+    name: Cambodia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_162
+    name: Cambodia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_163
+    name: Cambodia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_164
+    name: Cambodia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_165
+    name: Cambodia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_166
+    name: Cambodia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_167
+    name: Cambodia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_168
+    name: Cambodia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_169
+    name: Cambodia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_170
+    name: Cambodia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_171
+    name: Cambodia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_172
+    name: Cambodia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_173
+    name: Cambodia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_174
+    name: Cambodia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_175
+    name: Cambodia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_176
+    name: Cambodia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_177
+    name: Cambodia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_178
+    name: Cambodia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_179
+    name: Cambodia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_180
+    name: Cambodia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_181
+    name: Cambodia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_182
+    name: Cambodia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_183
+    name: Cambodia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_184
+    name: Cambodia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_185
+    name: Cambodia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_186
+    name: Cambodia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_187
+    name: Cambodia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_188
+    name: Cambodia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_189
+    name: Cambodia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_190
+    name: Cambodia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_191
+    name: Cambodia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_192
+    name: Cambodia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_193
+    name: Cambodia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_194
+    name: Cambodia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_195
+    name: Cambodia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_196
+    name: Cambodia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_197
+    name: Cambodia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_198
+    name: Cambodia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_199
+    name: Cambodia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_200
+    name: Cambodia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_201
+    name: Cambodia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_202
+    name: Cambodia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_203
+    name: Cambodia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_204
+    name: Cambodia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_205
+    name: Cambodia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_206
+    name: Cambodia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_207
+    name: Cambodia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_208
+    name: Cambodia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_209
+    name: Cambodia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_210
+    name: Cambodia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_211
+    name: Cambodia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_212
+    name: Cambodia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_213
+    name: Cambodia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_214
+    name: Cambodia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_215
+    name: Cambodia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_216
+    name: Cambodia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_217
+    name: Cambodia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_218
+    name: Cambodia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_219
+    name: Cambodia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_220
+    name: Cambodia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_221
+    name: Cambodia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_222
+    name: Cambodia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_223
+    name: Cambodia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_224
+    name: Cambodia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_225
+    name: Cambodia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_226
+    name: Cambodia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_227
+    name: Cambodia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_228
+    name: Cambodia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_229
+    name: Cambodia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_230
+    name: Cambodia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_231
+    name: Cambodia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_232
+    name: Cambodia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_233
+    name: Cambodia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_234
+    name: Cambodia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_235
+    name: Cambodia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_236
+    name: Cambodia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_237
+    name: Cambodia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_238
+    name: Cambodia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_239
+    name: Cambodia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_240
+    name: Cambodia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_241
+    name: Cambodia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_242
+    name: Cambodia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_243
+    name: Cambodia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_244
+    name: Cambodia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_245
+    name: Cambodia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_246
+    name: Cambodia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_247
+    name: Cambodia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_248
+    name: Cambodia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_249
+    name: Cambodia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_250
+    name: Cambodia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_251
+    name: Cambodia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kh_252
+    name: Cambodia Skill 252
+    status: ACTIVE_SCAFFOLD
